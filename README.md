@@ -1,4 +1,4 @@
-# Contribute Articles to We Use Coins (WUC)
+# Contribute Articles to 
 
 <p><a href="https://www.weusecoins.com/">WeUseCoins</a> is one of the highest profile and visited websites in Bitcoin. Our <a href="https://www.youtube.com/watch?v=Um63OQz3bjo">video</a> <a href="https://www.youtube.com/watch?v=Gc2en3nHxA4">What Is Bitcoin?</a> has had over 7.5 million views and <a href="https://www.youtube.com/watch?v=GmOzih6I1zs">What Is Bitcoin Mining?</a> has had over 2 million views. We want WUC and <a href="https://www.bitcoinmining.com/">BM</a> to be a classy resource to introduce people to the concept of crypto-currency.
 <h2>Earn Money Contributing</h2>
