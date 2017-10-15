@@ -5,7 +5,7 @@
 <p>Due to a generous donation there is a budget for content creation. The goal is to pay about $35/hour of work for new articles. Want to earn money submitting new articles?
 <p>Follow the instructions below and submit an article. If the pull request gets merged then you will get paid $35/h via bitcoins. To get paid you will need to contact us bitcoinaff@gmail.com. Future articles can then be assigned so you can earn more!
 <h3>Build Your Bitcoin Business</h3>
-<p>You can responsibly leverage XXX to build your Bitcoin business! For example, you could use XXX for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.<p>
+<p>You can responsibly leverage BitcoinBestBuy.com to build your Bitcoin business! For example, you could use BitcoinBestBuy.com for your blog which would have several advantages such as higher search engine visibility and extremely optimized hosting.<p>
 <p>
 Articles <b>should</b> be <b>(1)</b> well written, <b>(2)</b> accurate, <b>(3)</b> grammatically correct and <b>(4)</b> objective. Get audience exposure and build your reputation by receiving credit and a link in the byline for the article. Developing a good reputation will help your articles get merged in a more timely manner.
 
@@ -16,14 +16,14 @@ To increase the probability of success please follow these guidelines:
 2. Appropriate examples: <b>Individual</b>: [Live](http://www.weusecoins.com/trace-mayer-bitcoin-expert); [Github](https://github.com/sunnankar/wuc-new/blob/gh-pages/_people/trace-mayer-bitcoin-expert.md); <b>Corporate</b>: [Live](http://www.weusecoins.com/armory/); [Github](https://github.com/sunnankar/wuc-new/blob/gh-pages/_companies/armory.md)<p>
 3. For the Author URL in the layout use a website of your choice<p>
 
-### Writing Articles For XXX<p>
+### Writing Articles For BitcoinBestBuy.com<p>
 1. Create an objective article in the _posts folder<p>
 2. Use the Year-Month-Date in the file name. Ex. 2017-5-21-bitcoin.md<p>
-3. Fill out the Author and Author URL (use your XXX Author Biography article).<p>
-4. Length should be 500-1,800 words. However, the main criteria is quality and usefulness. Do not be afraid to create a 5,000 word <a href="XXX">guide</a> if it is awesome.
+3. Fill out the Author and Author URL (use your BitcoinBestBuy.com Author Biography article).<p>
+4. Length should be 500-1,800 words. However, the main criteria is quality and usefulness. Do not be afraid to create a 5,000 word <a href="BitcoinBestBuy.com">guide</a> if it is awesome.
 5. Even better, develop a <b>content creation plan</b>. Take advantage of the ZMOT with a [hub and spoke model](http://www.verticalmeasures.com/content-strategy/build-your-content-marketing-around-a-hub-and-spoke-model/).
 6. Perform at least basic Search Engine Optimization (Ex. [Free Tool](http://www.weusecoins.com/en/questions/)).<p>
-7. Link to and from other relevant pages on XXX like the extensive [FAQ](https://www.weusecoins.org/en/questions/)<p>
+7. Link to and from other relevant pages on BitcoinBestBuy.com like the extensive [FAQ](https://www.weusecoins.org/en/questions/)<p>
 8. Optimize images (Ex. [Tiny PNG](https://tinypng.com))<p>
 9. Find websites that will link to the article<p>
 10. Mention the article on social media like Twitter, Facebook, Reddit, etc.<p>
@@ -31,14 +31,14 @@ To increase the probability of success please follow these guidelines:
 
 ### What Not To Do
 
-XXX is not a low class marketing directory. Do not SPAM links in articles. Add appropriate and objective links to Bitcoin community or news websites in the community section.<p>
+BitcoinBestBuy.com is not a low class marketing directory. Do not SPAM links in articles. Add appropriate and objective links to Bitcoin community or news websites in the community section.<p>
 For obvious reasons, when dealing with translations you should not change the meaning of any text or add or change links. Such changes should be discussed first.
 
 # Other Language Versions
 
 ### For Web developers / Designers / Translators
 
-Each localized version of XXX is independent of each other and uses static HTML, CSS or PHP files.
+Each localized version of BitcoinBestBuy.com is independent of each other and uses static HTML, CSS or PHP files.
 
 Folders are currently ready for the following languages and labled by [ISO 639 language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes):
 <ul><li><a href="/zh/">Chinese</a> [zh]</li><li><a href="/nl/">Dutch</a> [nl]</li></li><li><b><a href="/en/">English</a> [en] - This is the default source.</b></li><li><a href="/de/">German</a> [de]</li><li><a href="/fi/>Finnish</a> [fi]</li><li><a href="/fr/">French</a> [fr]</li><li><a href="/el/">Greek</a> [el]</li><li><a href="/no/">Norwegian</a> [no]</li><li><a href="/ja/">Japanese</a> [ja]</li><li><a href="/pl/">Polish</a> [pl]</li><li><a href="/pt/">Portugese</a> [pt]</li><li><a href="/ru/">Russian</a> [ru]</li><li><a href="/es/">Spanish</a> [es]</li><li><a href="/sv/">Swedish</a> [sv]</li><li><a href="/tl/">Tagalog/Filipino</a> [tl]</li><li><a href="/tr/">Turkish</a> [tr]</li></ul>
@@ -58,40 +58,57 @@ This order should help get useful content available most efficiently.
 Translations should be accurate and professional. However, the maintainer for the language will have editorial discretion for what content should appear. This will enable adaptation to best fit each language's requirements, available resources, local businesses or active groups and general market conditions.<p>
 Unfortunately, pages can easily get out of date if not maintained. That includes the HTML, fonts, CSS, scripts, social networks, etc. and allows us to update other languages when a translator is missing for a specific language.
 
-The materials directory is used as a shared directory to store files that take significant disk space like videos.
+The materials’ directory is used as a shared directory to store files that take significant disk space like videos.
 
 Please help fix any broken links, bugs, typos, grammatical errors and such.
 
 <h3>HTML structure</h3>
 
-Please keep HTML structure as symetric and perfectly identical as possible between each page and each localized version. This should not prevent adding unique things for some languages. But please keep the rest as close as possible. This helps keep consistency.
+Please keep HTML structure as symmetric and perfectly identical as possible between each page and each localized version. This should not prevent adding unique things for some languages. But please keep the rest as close as possible. This helps keep consistency.
 
 <h2>Video translations</h2>
 
-Subtitles for <i>What is Bitcoin?</i> are available in the /material/wib_video/v2 folder. Some finished translated versions are currently available. More would be appreciated. If you can do the voiceover then please submit a pull request with the mp3 and we can get the translated video made and uploaded to Youtube. This <a href="The videos has been dubbed into a few languages already. Let's refer to this list when making sites for each of the languages: This <a href="https://bitcointalk.org/index.php?topic=109995.0">thread</a> can help us prioritize which languages to work on.
+Subtitles for <i>"What is Bitcoin?"</i> are available in the /material/wib_video/v2 folder. Some finished translated versions are currently available. More would be appreciated. If you can do the voice-over then please submit a pull request with the mp3 and we can get the translated video made and uploaded to YouTube.
+
+The most common languages spoken around the world:
+ 1 ) Mandarin - 935 million
+ 2 ) Spanish - 387 million
+ 3 ) English - 365 million
+ 4 ) Hindi - 295 million
+ 5 ) Arabic - 280 million
+ 6 ) Portuguese - 204 million
+ 7 ) Bengali - 202 million
+ 8 ) Russian - 160 million
+ 9 ) Japanese - 127 million 
+10 ) German - 92 million
+11 ) Wu - 80 million
+12 ) Indonesian - 76 million
+17 ) Korean - 75 million
+18 ) French - 73 million
+23 ) Italian - 69 million
 
 <ul><li>de - <a href="https://www.youtube.com/watch?v=2kPNz0tdlj0">German</a> - v1 full</li>
-<li>el - Greek - Could not find on Youtube</li>
+<li>el - Greek - Could not find on YouTube</li>
 <li>es - <a href="https://www.youtube.com/watch?v=ceef71b0zSo">Spanish</a> - v1 full</li>
-<li>fi - Finnish - Could not find on Youtube</li>
+<li>fi - Finnish - Could not find on YouTube</li>
 <li>fr - <a href="https://www.youtube.com/watch?v=eN4SCHxhgag">French</a> - v1 full</li>
 <li>it - <a href="https://www.youtube.com/watch?v=QSUJqb33Sd8">Italian</a> - v1 full</li>
 <li>ja - <a href="https://www.youtube.com/watch?v=dlZFkTbCveY">Japanese</a> - v2 subtitled</li>
 <li>nl - <a href="https://www.youtube.com/watch?v=9vLIt0YwDB0">Dutch</a> - v1 subtitled</li>
-<li>no - Norwegian - Could not find on Youtube</li>
+<li>no - Norwegian - Could not find on YouTube</li>
 <li>pl - <a href="https://www.youtube.com/watch?v=gZRJihow1Qg">Polish</a> - v1 full</li>
 <li>pt - <a href="https://www.youtube.com/watch?v=1WQYLvbGFC0">Portuguese</a> - v1 full</li>
 <li>ro - <a href="https://www.youtube.com/watch?v=uvFtlTvj4qI">Romanian</a> - v2 full</li>
 <li>ru - <a href="https://www.youtube.com/watch?v=Ur8zXNGA_3A">Russian</a> - v1 full</li>
-<li>sv - Swedish - Could not find on Youtube</li>
-<li>tl - Tagalog/Filipino - Could not find on Youtube</li>
+<li>sv - Swedish - Could not find on YouTube</li>
+<li>tl - Tagalog/Filipino - Could not find on YouTube</li>
 <li>tr - <a href="https://www.youtube.com/watch?v=tMnNC_l4tVM">Turkish</a> - v1 full</li>
 <li>zh - <a href="https://www.youtube.com/watch?v=BIyj4qe1wQM">Chinese</a> - v1 subtitled</li>
 </ul>
 
 <h2>Alt-Coin Articles</h2>
 
-XXX is about providing a useful resource for the entire cryptocurrency community. Consequently, there is an entire section devoted to [Alt-Coins](https://www.weusecoins.org/en/alt-coins/). Want to see your favorite alt-coin included? Then please talk to the developers or submit the pull requests yourself. Some article ideas would be:
+BitcoinBestBuy.com is about providing a useful resource for the entire cryptocurrency community. Consequently, there is an entire section devoted to [Alt-Coins](https://www.weusecoins.org/en/alt-coins/). Want to see your favorite alt-coin included? Then please talk to the developers or submit the pull requests yourself. Some article ideas would be:
 
 <ul><li>[alt-coin] guide</li>
      <li>Alt-coin price ticker widgets</li>
